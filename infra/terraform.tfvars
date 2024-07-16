@@ -1,4 +1,4 @@
-bucket_name = "dev-proj-1-remote-state-bucket"
+bucket_name = "dev-proj-1-jenkins-remote-state-bucket-123456"
 name        = "environment"
 environment = "dev-1"
 
@@ -13,4 +13,4 @@ ec2_ami_id     = "ami-06dd92ecc74fdfb36"
 
 ec2_user_data_install_apache = ""
 
-domain_name = "jhooq.org"
+domain_name = "shubha-learn.xyz"
